@@ -75,7 +75,7 @@ python3 start.py tools
   * 🌟 CFIP | Find Real IP Address Of Websites Powered By Cloudflare
   * 🔪 DNS | Show DNS Records Of Sites
   * 📍  TSSRV | TeamSpeak SRV Resolver
-  * ⚠  PING | PING Servers
+  * ⚠  PING 999 | PING Servers
   * 📌 CHECK | Check If Websites Status
   * 😎 DSTAT | That Shows Bytes Received, bytes Sent and their amount
 
